@@ -16,6 +16,7 @@ Human model for researchers. [ **Topic:** Computational Neuroscience ]
                    3. ------------------------
                    ....
 
-**Team Lead:** Ranganathan  
+**Team Lead:** Ranganathan Kasiganesan
 
-      **Team Member:** Manjot Singh
+      **Team Member:** 
+                  Manjot Singh
